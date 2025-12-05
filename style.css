@@ -1,8 +1,18 @@
 body {
   background-color: black;
 }
- .text{
-	color: white;
+ .textvk{
+	color: blue;
+	text-decoration: none;
+}
+
+ .texttelegram{
+	color: #00ffff;
+	text-decoration: none;
+}
+
+ .textok{
+	color: #ffae00;
 	text-decoration: none;
 }
 
